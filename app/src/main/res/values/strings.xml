@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">SportApplication</string>
+
+    <string name="ukors_name">Nama Ukor</string>
+    <string name="description">Deskripsi</string>
+    <string name="about_me">About Me</string>
+    <string name="nama_sulthan">Abdilah Sulthan Naufal Panggabean</string>
+    <string name="email_sulthan">abdillahsulthan12@gmail.com</string>
+    <string name="supervisor_template">Supervisor: %s</string>
+    <string name="location_template">Location: %s</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+
+    <string-array name="data_name">
+        <item>UKOR Basket</item>
+        <item>UKOR Bola dan Futsal</item>
+        <item>UKOR Badminton</item>
+        <item>UKOR Voli</item>
+        <item>UKOR Renang</item>
+        <item>UKOR Taekwondo</item>
+        <item>UKOR Tenis Lapangan</item>
+        <item>CS Runner</item>
+        <item>UKOR E-sports</item>
+        <item>UKOR Tenis Meja</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Unit Kegiatan Olahraga yang memfasilitasi elemen dan mahasiswa Fasilkom UI yang memiliki minat dan bakat di bidang Olahraga Unit Basket.</item>
+        <item>Unit Kegiatan Olahraga yang memfasilitasi elemen dan mahasiswa Fasilkom UI yang memiliki minat dan bakat di bidang Olahraga Unit Futsal dan Sepak Bola.</item>
+        <item>Unit Kegiatan Olahraga yang memfasilitasi elemen dan mahasiswa Fasilkom UI yang memiliki minat dan bakat di bidang Olahraga Unit Badminton.</item>
+        <item>Unit Kegiatan Olahraga yang memfasilitasi elemen dan mahasiswa Fasilkom UI yang memiliki minat dan bakat di bidang Olahraga Unit Voli.</item>
+        <item>Unit Kegiatan Olahraga yang memfasilitasi elemen dan mahasiswa Fasilkom UI yang memiliki minat dan bakat di bidang Olahraga Unit Renang.</item>
+        <item>Unit Kegiatan Olahraga yang memfasilitasi elemen dan mahasiswa Fasilkom UI yang memiliki minat dan bakat di bidang Olahraga Unit Taekwondo.</item>
+        <item>Unit Kegiatan Olahraga yang memfasilitasi elemen dan mahasiswa Fasilkom UI yang memiliki minat dan bakat di bidang Olahraga Unit Tenis Lapangan.</item>
+        <item>Unit Kegiatan Olahraga yang memfasilitasi elemen dan mahasiswa Fasilkom UI yang memiliki minat dan bakat di bidang Olahraga Unit Lari.</item>
+        <item>Unit Kegiatan Olahraga yang memfasilitasi elemen dan mahasiswa Fasilkom UI yang memiliki minat dan bakat di bidang Olahraga Unit E-Sports.</item>
+        <item>Unit Kegiatan Olahraga yang memfasilitasi elemen dan mahasiswa Fasilkom UI yang memiliki minat dan bakat di bidang Olahraga Unit Tenis Meja.</item>
+    </string-array>
+
+    <string-array name="data_supervisor">
+        <item>Darrel</item>
+        <item>Fatih dan Billy</item>
+        <item>Chika</item>
+        <item>Sakha</item>
+        <item>Aiza</item>
+        <item>Brian</item>
+        <item>Irsyad</item>
+        <item>Aggitya</item>
+        <item>Azmi</item>
+        <item>Roger</item>
+    </string-array>
+
+    <string-array name="data_location">
+        <item>Gymnasium UI</item>
+        <item>Lapangan SOR UI</item>
+        <item>GOR Kukusan</item>
+        <item>Lapangan SOR UI</item>
+        <item>Felfest UI</item>
+        <item>Parkiran Belakang Fasilkom UI</item>
+        <item>Lapangan PNJ</item>
+        <item>Fasilkom UI</item>
+        <item>Play from Home</item>
+        <item>Plaza Gedung Baru Fasilkom UI</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://upload.wikimedia.org/wikipedia/commons/7/73/Chicago_Bulls_and_New_Jersey_Nets%2C_March_28%2C_1991.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/4/42/Football_in_Bloomington%2C_Indiana%2C_1995.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/f/fd/Olympics_2012_Mixed_Doubles_Final.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/3/38/Volleyball_game.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/6/6b/11th_FINA_World_Championships.JPG</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/5/57/Italian_Taekwondo_Championships_2013.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/2/22/Centre_Court.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/0/07/Usain_Bolt_Olympics_cropped.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/0/0a/The_International_2014.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/5/58/Mondial_Ping_-_Men%27s_Singles_-_Round_4_-_Kenta_Matsudaira-Vladimir_Samsonov_-_57.jpg</item>
+    </string-array>
+
+</resources>
